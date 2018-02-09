@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870b7525-910e-4e2c-ade4-3ea80a4b3d71" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BusinessLogic/CalHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Tut3/UserInterface/CalUi.class" afterPath="$PROJECT_DIR$/out/production/Tut3/UserInterface/CalUi.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BusinessLogic/CalInterface.java" afterPath="$PROJECT_DIR$/src/BusinessLogic/CalInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BusinessLogic/GeoCalculator.java" afterPath="$PROJECT_DIR$/src/BusinessLogic/GeoCalculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UserInterface/CalUi.java" afterPath="$PROJECT_DIR$/src/UserInterface/CalUi.java" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +28,11 @@
         <entry file="file://$PROJECT_DIR$/src/BusinessLogic/CalInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
+<<<<<<< HEAD
               <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+=======
+              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
               <folding />
             </state>
           </provider>
@@ -39,10 +52,24 @@
         <entry file="file://$PROJECT_DIR$/src/UserInterface/CalUi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="567">
+<<<<<<< HEAD
               <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+=======
+              <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BusinessLogic/CalHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,6 +88,7 @@
         <entry file="file://$PROJECT_DIR$/src/BusinessLogic/GeoCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="556">
+<<<<<<< HEAD
               <caret line="60" column="0" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="e#3756#3757#0" expanded="true" />
@@ -75,6 +103,18 @@
                 <marker date="1518171265710" expanded="false" signature="3606:3612" ph=" }" />
                 <marker date="1518171265710" expanded="false" signature="3669:3680" ph=" { " />
                 <marker date="1518171265710" expanded="false" signature="3692:3698" ph=" }" />
+=======
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding>
+                <element signature="e#3679#3680#0" expanded="true" />
+                <element signature="e#3707#3708#0" expanded="true" />
+                <element signature="e#3924#3925#0" expanded="true" />
+                <element signature="e#3958#3959#0" expanded="true" />
+                <element signature="e#3993#3994#0" expanded="true" />
+                <element signature="e#4027#4028#0" expanded="true" />
+                <element signature="e#4062#4063#0" expanded="true" />
+                <element signature="e#4096#4097#0" expanded="true" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
               </folding>
             </state>
           </provider>
@@ -149,10 +189,12 @@
         <option value="$PROJECT_DIR$/src/BusinessLogic/Factory/calcFactory.java" />
         <option value="$PROJECT_DIR$/src/BusinessLogic/AlgCalculator.java" />
         <option value="$PROJECT_DIR$/src/BusinessLogic/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/BusinessLogic/CalInterface.java" />
         <option value="$PROJECT_DIR$/src/BusinessLogic/BasicCalculator.java" />
-        <option value="$PROJECT_DIR$/src/BusinessLogic/GeoCalculator.java" />
+        <option value="$PROJECT_DIR$/src/BusinessLogic/Factory/CalFactory.java" />
         <option value="$PROJECT_DIR$/src/UserInterface/CalUi.java" />
+        <option value="$PROJECT_DIR$/src/BusinessLogic/CalHandler.java" />
+        <option value="$PROJECT_DIR$/src/BusinessLogic/CalInterface.java" />
+        <option value="$PROJECT_DIR$/src/BusinessLogic/GeoCalculator.java" />
       </list>
     </option>
   </component>
@@ -767,12 +809,18 @@
       <workItem from="1517932448474" duration="2013000" />
       <workItem from="1518008032307" duration="2173000" />
       <workItem from="1518100005368" duration="2686000" />
-      <workItem from="1518113318519" duration="1854000" />
+      <workItem from="1518113318519" duration="2264000" />
+      <workItem from="1518160804600" duration="1292000" />
+      <workItem from="1518170931923" duration="253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="19411000" />
+=======
+    <option name="totallyTimeSpent" value="21278000" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -810,6 +858,7 @@
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+<<<<<<< HEAD
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -821,6 +870,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32519424" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -839,7 +891,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -850,22 +902,35 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/UserInterface/CalUi.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="567">
           <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+=======
+        <state relative-caret-position="231">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/BusinessLogic/CalInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/BasicCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/BusinessLogic/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -886,10 +951,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-42">
           <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/GeoCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="84" column="37" lean-forward="false" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
+          <folding>
+            <element signature="e#3679#3680#0" expanded="true" />
+            <element signature="e#3707#3708#0" expanded="true" />
+            <element signature="e#3924#3925#0" expanded="true" />
+            <element signature="e#3958#3959#0" expanded="true" />
+            <element signature="e#3993#3994#0" expanded="true" />
+            <element signature="e#4027#4028#0" expanded="true" />
+            <element signature="e#4062#4063#0" expanded="true" />
+            <element signature="e#4096#4097#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/AlgCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="123" column="14" lean-forward="false" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/Factory/CalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/BusinessLogic/GeoCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
@@ -911,6 +1010,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
     <entry file="file://$PROJECT_DIR$/src/BusinessLogic/CalInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -940,6 +1041,7 @@
         <state relative-caret-position="126">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#3756#3757#0" expanded="true" />
             <element signature="e#3784#3785#0" expanded="true" />
             <element signature="e#4001#4002#0" expanded="true" />
@@ -952,6 +1054,16 @@
             <marker date="1518171265710" expanded="false" signature="3606:3612" ph=" }" />
             <marker date="1518171265710" expanded="false" signature="3669:3680" ph=" { " />
             <marker date="1518171265710" expanded="false" signature="3692:3698" ph=" }" />
+=======
+            <element signature="e#3679#3680#0" expanded="true" />
+            <element signature="e#3707#3708#0" expanded="true" />
+            <element signature="e#3924#3925#0" expanded="true" />
+            <element signature="e#3958#3959#0" expanded="true" />
+            <element signature="e#3993#3994#0" expanded="true" />
+            <element signature="e#4027#4028#0" expanded="true" />
+            <element signature="e#4062#4063#0" expanded="true" />
+            <element signature="e#4096#4097#0" expanded="true" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
           </folding>
         </state>
       </provider>
@@ -1144,24 +1256,50 @@
     <entry file="file://$PROJECT_DIR$/src/ServerSide/Server.java" />
     <entry file="file://$PROJECT_DIR$/src/BusinessLogic/GeoCalInterface.java" />
     <entry file="file://$PROJECT_DIR$/src/BusinessLogic/Evaluator.java" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/BusinessLogic/CalInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/AlgCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="123" column="14" lean-forward="false" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/Factory/CalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/BasicCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/UserInterface/CalUi.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-42">
           <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
           <folding />
+=======
+        <state relative-caret-position="567">
+          <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/GeoCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/CalInterface.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="556">
           <caret line="60" column="0" lean-forward="false" selection-start-line="61" selection-start-column="19" selection-end-line="62" selection-end-column="0" />
           <folding>
@@ -1178,42 +1316,73 @@
             <marker date="1518171265710" expanded="false" signature="3669:3680" ph=" { " />
             <marker date="1518171265710" expanded="false" signature="3692:3698" ph=" }" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/AlgCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2436">
-          <caret line="123" column="14" lean-forward="false" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+=======
+        <state relative-caret-position="210">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BusinessLogic/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="2436">
+          <caret line="123" column="14" lean-forward="false" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+=======
         <state relative-caret-position="210">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="44" />
+          <folding />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/CalHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="210">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="44" />
+=======
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UserInterface/CalUi.java">
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/BasicCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="567">
           <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="-42">
+          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding />
+>>>>>>> 6a6e72cd0f1564e1090bbe7eeb3e12cc7e876b22
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/Factory/CalFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/BusinessLogic/GeoCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="556">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="e#3679#3680#0" expanded="true" />
+            <element signature="e#3707#3708#0" expanded="true" />
+            <element signature="e#3924#3925#0" expanded="true" />
+            <element signature="e#3958#3959#0" expanded="true" />
+            <element signature="e#3993#3994#0" expanded="true" />
+            <element signature="e#4027#4028#0" expanded="true" />
+            <element signature="e#4062#4063#0" expanded="true" />
+            <element signature="e#4096#4097#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

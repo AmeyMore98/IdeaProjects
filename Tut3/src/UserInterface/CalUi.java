@@ -24,11 +24,10 @@ public class CalUi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         CalUi c = new CalUi();
-        CalFactory cf = new CalFactory();
+        CalHandler ch = new CalHandler();
         while(true){
             exp = c.getExp();
-            Calculator calc = cf.chooser(exp);
-            c.result = calc.cal(exp);
+            c.result = ch.evaluate(exp);
             System.out.println("Result: " + c.result +"\nContinue (Y/N)? ");
             String choice = sc.nextLine();
             if(choice.equals("N") || choice.equals("n"))
