@@ -27,7 +27,7 @@ public class GeoCalculator extends Calculator{
                 values.push(Double.parseDouble(sbuf.toString()));
             }
             else if(tokens[i] == 's'){
-                i=i+3;				//sin45 + cos45
+                i=i+3;
                 StringBuffer temp = new StringBuffer();
                 while(i<tokens.length && tokens[i] >= '0' && tokens[i]<='9'){
                     temp.append(tokens[i++]);
@@ -35,7 +35,7 @@ public class GeoCalculator extends Calculator{
                 values.push(Double.parseDouble(""+sin(Double.parseDouble(temp.toString()))));
             }
             else if(tokens[i] == 'c'){
-                i=i+3;				//sin45 + cos45
+                i=i+3;
                 StringBuffer temp = new StringBuffer();
                 while(i<tokens.length && tokens[i] >= '0' && tokens[i]<='9'){
                     temp.append(tokens[i++]);
@@ -43,7 +43,7 @@ public class GeoCalculator extends Calculator{
                 values.push(Double.parseDouble(""+cos(Double.parseDouble(temp.toString()))));
             }
             else if(tokens[i] == 't'){
-                i=i+3;				//sin45 + cos45
+                i=i+3;
                 StringBuffer temp = new StringBuffer();
                 while(i<tokens.length && tokens[i] >= '0' && tokens[i]<='9'){
                     temp.append(tokens[i++]);
@@ -58,8 +58,7 @@ public class GeoCalculator extends Calculator{
                     values.push(applyOp(ops.pop(), values.pop(), values.pop()));
                 ops.pop();
             }
-            else if (tokens[i] == '+' || tokens[i] == '-' ||
-                    tokens[i] == '*' || tokens[i] == '/')
+            else if (tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*' || tokens[i] == '/')
             {
                 while (!ops.empty() && hasPrecedence(tokens[i], ops.peek()))
                     values.push(applyOp(ops.pop(), values.pop(), values.pop()));
