@@ -9,10 +9,10 @@ import Views.*;
 import java.util.*;
 
 public class calControl {
-    public calLogic log;
-    public calModel mod;
-    public cmd view;
-    public calControl() {
+    private calLogic log;
+    private calModel mod;
+    private cmd view;
+    private calControl() {
         mod = new calModel();
         log = new calLogic();
         view = new cmd();
@@ -29,9 +29,7 @@ public class calControl {
                 break;
             }
         }
-
     }
-
     public static void main(String args[]) {
         calControl calC = new calControl();
     }
