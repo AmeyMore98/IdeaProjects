@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870b7525-910e-4e2c-ade4-3ea80a4b3d71" name="Default" comment="">
-<<<<<<< HEAD
+<<<<<<<HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
 =======
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BusinessLogic/CalHandler.java" />
