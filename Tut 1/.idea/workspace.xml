@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/UserInterface/calUi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="672">
-              <caret line="34" column="9" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="34" selection-end-column="9" />
+              <caret line="34" column="9" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="34" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -36,7 +36,7 @@
       <file leaf-file-name="calLogic.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BusinessLogic/calLogic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
+            <state relative-caret-position="525">
               <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
               <folding />
             </state>
@@ -99,7 +99,6 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -164,12 +163,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tut 6" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -688,6 +688,7 @@
       <workItem from="1521195367040" duration="43000" />
       <workItem from="1522587007989" duration="362000" />
       <workItem from="1522588291197" duration="801000" />
+      <workItem from="1522586187974" duration="74000" />
     </task>
     <servers />
   </component>
@@ -697,7 +698,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8099000" />
+    <option name="totallyTimeSpent" value="8173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1031,7 +1032,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BusinessLogic/calLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
+        <state relative-caret-position="525">
           <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding />
         </state>
@@ -1040,7 +1041,7 @@
     <entry file="file://$PROJECT_DIR$/src/UserInterface/calUi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="34" selection-end-column="9" />
+          <caret line="34" column="9" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="34" selection-end-column="9" />
           <folding />
         </state>
       </provider>
