@@ -1,0 +1,66 @@
+<% include templates/head.ejs%>
+<body>
+	<div class="container-fluid">
+		<div class="jumbotron">
+			<h1>Tpo</h1>
+		</div>
+		<div class="row">
+			<div class="col-md-2"></div>
+			<div class="col-md-3">
+				<div class="panel">
+					<div class="panel-heading">Login</div>
+					<div class="panel-body">
+						<form method="POST" action="/student/auth/login">
+							<div class="form-group">
+							    <label for="email">Email</label>
+							    <input type="email" class="form-control" name="email">
+						  	</div>
+						  	<div class="form-group">
+							    <label for="password">Password</label>
+							    <input type="password" class="form-control" name="password">
+						  	</div>
+						  	<button type="submit" class="btn btn-primary">Submit</button>
+						</form>
+					</div>	
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+			<div class="col-md-3">
+				<div class="panel">
+					<div class="panel-heading">Register</div>
+					<div class="panel-body">
+						<form method=="POST" action="/student/auth/register">
+							<div class="form-group">
+							    <label for="name">Name</label>
+							    <input type="text" class="form-control" name="name">
+						  	</div>
+						  	<div class="form-group">
+							    <label for="email">Email</label>
+							    <input type="email" class="form-control" name="email">
+						  	</div>
+						  	<div class="form-group">
+							    <label for="name">Student ID</label>
+							    <input type="number" class="form-control" name="sname">
+						  	</div>
+						  	<div class="form-group">
+							    <label for="name">Branch</label>
+							    <input type="text" class="form-control" name="branch">
+						  	</div>
+						  	<div class="form-group">
+							    <label for="name">Year</label>
+							    <input type="number" class="form-control" name="year">
+						  	</div>
+						  	<div class="form-group">
+							    <label for="password">Password</label>
+							    <input type="password" class="form-control" name="password">
+						  	</div>
+						  	<button type="submit" class="btn btn-primary">Submit</button>
+						</form>
+					</div>	
+				</div>
+			</div>
+			<div class="col-md-2"></div>
+		</div>
+	</div>
+
+<% include templates/lower-body.ejs %>
